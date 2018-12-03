@@ -1,0 +1,36 @@
+body{
+	font-family:roboto;
+	line-height: 1.4cm;
+}
+
+
+article{
+	max-width: 700px;
+	margin:0 auto;
+}
+img{
+	border-top-left-radius: 20px;
+	border-bottom-right-radius:20px;
+	width:500px;
+	height:500px;
+}
+
+h1{
+	color:blue;
+}
+p{
+	color: black;
+
+}
+header img{
+	background-color: black;
+}
+section{
+	outline-color: green;
+}
+iframe{
+	border-radius:circle;
+}
+h2 img{
+	border-radius:round;
+}
