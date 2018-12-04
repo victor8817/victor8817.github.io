@@ -1,0 +1,14 @@
+body{
+	font-family:arial;
+	line-height: 1.4cm
+}
+
+article{
+	max-width: 700px
+	margin:0 auto;
+}
+img{
+	border-radius: 50px
+	width:100px
+	height:100px
+}
